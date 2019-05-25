@@ -4,3 +4,4 @@
 
 ## Issure
 -[issueË¼Â·](./Gre_wirting_issue/issue_1.md)
+-[issueĞ´·¨](./Gre_wirting_issue/issue_2.md)
